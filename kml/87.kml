@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>87.kml</name>
+	<Style id="area1153">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf000000</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="area1154">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#area1157</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#area1153</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="area1157">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf000000</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>87</name>
+		<open>1</open>
+		<description><![CDATA[EX-POLIGONOS<BR><BR><B>ELEVATION</B> = 0.0]]></description>
+		<styleUrl>#area1154</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-71.9956072218,-45.3581609107,0 -71.9957332333,-45.3581792221,0 -71.99573938189999,-45.3582375977,0 -71.9957388002,-45.3583355067,0 -71.9957411068,-45.35838051150001,0 -71.9957389217,-45.35841769739999,0 -71.99574821109999,-45.3584360433,0 -71.99574573309999,-45.3584646187,0 -71.9957508075,-45.3585300476,0 -71.9957538554,-45.358575583,0 -71.9957536356,-45.3585973747,0 -71.9957627343,-45.35877720479999,0 -71.9957752789,-45.3589569451,0 -71.9957759397,-45.3589723924,0 -71.9956525628,-45.35896642499999,0 -71.9956525628,-45.35896642499999,0 -71.9956072218,-45.3581609107,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

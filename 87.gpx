@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="-45.3581609107" lon="-71.9956072218">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3581792221" lon="-71.9957332333">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3582375977" lon="-71.9957393819">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3583355067" lon="-71.9957388002">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.35838051150001" lon="-71.9957411068">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.35841769739999" lon="-71.9957389217">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3584360433" lon="-71.9957482111">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3584646187" lon="-71.9957457331">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3585300476" lon="-71.9957508075">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.358575583" lon="-71.9957538554">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3585973747" lon="-71.9957536356">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.35877720479999" lon="-71.9957627343">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3589569451" lon="-71.9957752789">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3589723924" lon="-71.9957759397">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.35896642499999" lon="-71.9956525628">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.35896642499999" lon="-71.9956525628">
+        <ele>0.0</ele>
+      </trkpt>
+      <trkpt lat="-45.3581609107" lon="-71.9956072218">
+        <ele>0.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
